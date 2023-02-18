@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body, html {
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.wrapper{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main{
+    width: 900px;
+    height: 500px;
+}
+
+
+.tooltip{
+    padding: 0 2px;
+}
+
+.title{
+    margin-bottom: 10px;
+}
+
+.round {
+    margin-top: 4px;
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+}
+
+.item{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+}
+
+.item:last-child{
+    margin-bottom: 0
+}
+
+.item_title{
+    margin-right: 20px;
+}
+
+.item_el{
+    display: flex;
+    font-weight: 400;
+}
