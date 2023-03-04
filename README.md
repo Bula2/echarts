@@ -1,2 +1,2 @@
 # gazprom-neft
-Работа с библиотекой [https://echarts.apache.org/en/index.html](echarts.js)
+Работа с библиотекой [echarts.js](https://echarts.apache.org/en/index.html)
